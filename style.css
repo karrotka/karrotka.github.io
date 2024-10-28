@@ -1,0 +1,23 @@
+p
+    {
+        color:rgb(47, 57, 77);
+        font-size:  20pt; 
+        font-family: "Updock", cursive;
+ 
+    }
+
+body{
+    color:blue;
+    background-color: rgb(228, 192, 252);
+    <!-- background-image: url("puding\ czekoladowy.jfif");-->
+}
+img{
+    width: 500px;
+}
+div{
+    max-width: 600px;
+    margin:auto;
+
+
+
+}
